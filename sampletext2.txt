@@ -1,8 +1,3 @@
-sample text 
+sample text git 
 
-li 
-loram ipsum
-li
-
-
-loram ipsum
+stash
